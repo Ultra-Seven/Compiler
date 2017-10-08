@@ -1,3 +1,0 @@
-E:/Clion workplace/Complier/Lab0/cmake-build-debug/CMakeFiles/Lab0.dir
-E:/Clion workplace/Complier/Lab0/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Clion workplace/Complier/Lab0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
